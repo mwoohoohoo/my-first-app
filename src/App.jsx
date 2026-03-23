@@ -237,6 +237,7 @@ const theme = createTheme({
           alignItems: "center",
           justifyContent: "flex-start",
           paddingLeft: "20px",
+          paddingRight: "40px",
         },
         icon: ({ theme }) => ({
           right: "16px",

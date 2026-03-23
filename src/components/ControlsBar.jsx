@@ -85,7 +85,7 @@ export default function ControlsBar({
                 size="small"
                 sx={{
                   borderRadius: "999px",
-                  width: "100%",
+                  width: "fit-content",
                 }}
               >
                 <MenuItem value="name-asc">Sort by name (A - Z)</MenuItem>
